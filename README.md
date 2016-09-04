@@ -22,4 +22,3 @@ sdk version
 ```{bash}
 sdk install gradle 3.0
 ```
-
