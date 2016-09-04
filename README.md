@@ -22,3 +22,12 @@ sdk version
 ```{bash}
 sdk install gradle 3.0
 ```
+
+3.
+
+```{bash}
+grandle build
+java -jar build/libs/gs-integration-0.1.0.jar
+```
+
+
